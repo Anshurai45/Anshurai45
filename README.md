@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full stack web development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me anshurai605@codingninjas.com
+- 📫 How to reach me anshurai605@gmail.com
 
 <!---
 Anshurai45/Anshurai45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
