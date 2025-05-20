@@ -21,9 +21,6 @@
 ---
 
 
-### 🔗 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/theanshu/)  
-[![Portfolio](https://github.com/Anshurai45)
 
 ---
 
