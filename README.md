@@ -5,7 +5,7 @@
 
 🌱 I’m currently pursuing **MCA** from **GL Bajaj**  
 🚀 Working on a **Job Portal Website** using **React & JavaScript**  
-🛒 Previously built a full-fledged **E-commerce Platform**  
+🛒 Previously built a  **E-commerce Platform**  
 📫 Reach me at: **anshurai605@gmail.com**
 
 ---
@@ -20,15 +20,10 @@
 
 ---
 
-### 📈 GitHub Stats
-![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=react)
-
----
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=web&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://www.linkedin.com/in/theanshu/)  
+[![Portfolio](https://github.com/Anshurai45)
 
 ---
 
