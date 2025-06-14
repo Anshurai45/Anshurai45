@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshu Rai</h1>
-<h3 align="center">A passionate Frontend Developer 🇮🇳</h3>
+<h3 align="center">const aboutMe = (Skills) => (JavaScript, ReactJS, NodeJS, ExpressJS, TailwindCSS, Redux, REST API, Git, Webpack, TypeScript, AWS)</h3>
 
 ---
 
