@@ -5,7 +5,7 @@
 
 🌱 I’m currently pursuing **MCA** from **GL Bajaj**  
 🚀 Intern at Leapon **  
-🛒 Previously built a  **E-commerce Platform**  
+🛒 Previously built a  **Job Portal **  
 📫 Reach me at: **anshurai605@gmail.com**
 
 ---
